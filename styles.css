@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(./EJMQL3VWGFCSWOE2ITVEC37IGY.jpg);
+
+}
+
+/* nav */
+
+.navbar {
+    background-color: #974a4a;
+    border-bottom: solid black 2px;
+}
+
+.logo-nav-bar {
+    margin: 10px;
+    width: 70px;
+}
+
+.nav-link-edit {
+    color: #fff;
+    font-size: 32px;
+    font-family: nba-celtics;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.nav-link-edit:hover {
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    padding: 10px;
+}
+
+
+.form-signin {
+
+    margin-top: 50px;
+}
+
+.botton-turno {
+    border: solid 2px black;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    color: white;
+    font-size: 32px;
+}
